@@ -191,7 +191,7 @@ int code6() {
 
 int main(){
     int ans;
-    cout<<"---------------------REFER NOTEBOOK----------------------"<<endl;
+    cout<<"---------------------REFER NOTEBOOK[code 1-6]----------------------"<<endl;
     cout<<"Which Number of Program you want to Execute from ''DAY5!!'' : ";
     cin >> ans;
     if(ans == 1) {

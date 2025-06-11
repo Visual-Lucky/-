@@ -106,7 +106,7 @@ int code8(){
 
 int main(){
     int a;
-    cout<<"---------------------REFER NOTEBOOK----------------------"<<endl;
+    cout<<"---------------------REFER NOTEBOOK[code 1-8]----------------------"<<endl;
     cout<<"Which Number of Program you want to Execute from ''DAY3!!'' : ";
     cin >> a;
 
